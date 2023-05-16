@@ -19,7 +19,7 @@ Bu proje, Benim yeteneklerimi, deneyimlerimi ve çalışmalarımı sergilemek i�
 
 ## Kullanım Kılavuzu
 
-1. İlk olarak, projeyi yerel makinenize klonlayın: git clone https://github.com/your-username/ben-portfolio.git
+1. İlk olarak, projeyi yerel makinenize klonlayın: git clone https://github.com/omerkonca/portfolio.git
 2. Proje klasörüne gidin: cd ben-portfolio
 3. İndirdiğiniz bağımlılıkları yüklemek için aşağıdaki komutu çalıştırın: npm install
 4. Geliştirme sunucusunu başlatmak için aşağıdaki komutu kullanın: npm start
