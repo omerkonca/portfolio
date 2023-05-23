@@ -31,7 +31,7 @@ Katkılarınızı memnuniyetle karşılıyoruz. Büyük değişiklikler yapmadan
 
 ## Lisans
 
-Bu proje [MIT Lisansı](https://opensource.org/licenses/MIT) altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasını inceleyin.
+Bu proje [MIT Lisansı](LICENCE.txt) altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasını inceleyin.
 
 ---
 
