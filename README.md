@@ -3,7 +3,7 @@
 Bu proje, Benim kişisel portföy web sitesimi oluşturmak için kullanılmıştır.
  
 ## Canlı Site
-
+ 
 Projenin canlı bir sürümünü [buradan](https://www.bensportfolio.com) görüntüleyebilirsiniz.
 
 ## Proje Açıklaması
